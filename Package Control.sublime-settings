@@ -1,0 +1,35 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"AutoFileName",
+		"BracketHighlighter",
+		"ConvertToUTF8",
+		"CSS Snippets",
+		"Emmet",
+		"Goto-CSS-Declaration",
+		"HTML Snippets",
+		"HTML5",
+		"Jade",
+		"Jade Snippets",
+		"Material Theme",
+		"Package Control",
+		"Placeholders",
+		"Project Manager",
+		"Sass",
+		"SCSS",
+		"SCSS Snippets",
+		"SFTP",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-csslint",
+		"SublimeLinter-html-tidy",
+		"Tag",
+		"TrailingSpaces",
+		"View In Browser"
+	]
+}
